@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿Console.Title = "PassGen";
 Console.WriteLine("Hello, World!");
